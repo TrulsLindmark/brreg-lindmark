@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lindmark.Api.Brreg", "Lindmark.Api.Brreg\Lindmark.Api.Brreg.csproj", "{45AF78A3-0BAF-4B00-804A-3323004B4BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lindmark.Api.Brreg.Test", "Lindmark.Api.Brreg.Test\Lindmark.Api.Brreg.Test.csproj", "{FFFBA8FA-74CA-4BCB-A4DC-1841FB56A1F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45AF78A3-0BAF-4B00-804A-3323004B4BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AF78A3-0BAF-4B00-804A-3323004B4BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AF78A3-0BAF-4B00-804A-3323004B4BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AF78A3-0BAF-4B00-804A-3323004B4BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFBA8FA-74CA-4BCB-A4DC-1841FB56A1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFBA8FA-74CA-4BCB-A4DC-1841FB56A1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFBA8FA-74CA-4BCB-A4DC-1841FB56A1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFBA8FA-74CA-4BCB-A4DC-1841FB56A1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
